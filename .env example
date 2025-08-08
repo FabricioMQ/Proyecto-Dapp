@@ -1,0 +1,6 @@
+RPC_URL=                          # URL del RPC 
+USER_REGISTRY_ADDRESS=      # Dirección del contrato UserRegistry (registro de usuarios)
+PRODUCT_REGISTRY_ADDRESS=         # Dirección del contrato ProductRegistry (registro de productos)
+SUPPLY_CHAIN_LOGIC_ADDRESS=       # Dirección del contrato SupplyChainLogic (lógica de la cadena de suministro)
+PERMISSION_MANAGER_ADDRESS=   # Dirección del contrato PermissionManager (gestión de permisos)
+AUDIT_TRAIL_ADDRESS=      # Dirección del contrato AuditTrail (registro de auditoría)
